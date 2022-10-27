@@ -1,0 +1,13 @@
+plugins {
+    id 'java'
+}
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testImplementation 'org.keycloak:keycloak-core:17.0.1'
+}
+
