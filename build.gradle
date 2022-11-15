@@ -8,5 +8,5 @@ repositories {
 }
 
 dependencies {
-    testImplementation 'org.keycloak:keycloak-core:17.0.1'
+    Implementation 'org.keycloak:keycloak-core:17.0.1'
 }
